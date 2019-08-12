@@ -44,5 +44,11 @@ for ch in encryptedOutput:
 print("Receiver Output: ", decryptedOutput)
 
 # def encrypt(text, key, mode):
-    #place function content here!
+# place function content here!
 
+
+choice = input("e/d?")
+if True:
+  # decrypt
+else:
+    pass
